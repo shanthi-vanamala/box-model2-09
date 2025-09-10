@@ -1,0 +1,78 @@
+#img{
+    /* background-color: blue; */
+    padding: 10px;
+    margin: 10px;
+}
+*{  
+    text-align: center;
+    /* background-color: rgb(201, 174, 174); */
+   
+}
+.Health{
+    /* justify-content: center; */
+  background-color: rgb(255, 216, 20);
+  padding: 30px;
+  width: 500px;
+  margin: 50px;
+  border: solid;
+  border-radius: 20px;
+  text-align: center;
+}
+.Family{
+    background-color: rgb(55, 0, 255);
+    padding: 30px;
+    width: 500px;
+    margin: 50px;
+    border: solid;
+    border-radius: 20px;
+    text-align: center;
+}
+.Education{
+    background-color: rgb(220, 20, 187);
+    padding: 30px;
+    width: 500px;
+    margin: 50px;
+    border: solid;
+    border-radius: 20px;
+    text-align: center;
+}
+.Wellness{
+    background-color: rgb(199, 231, 80);
+    padding: 30px;
+    width: 500px;
+    margin: 50px;
+    border: solid;
+    border-radius: 20px;
+    text-align: center;
+}
+.Passion{
+    background-color: mediumspringgreen;
+    padding: 30px;
+    width: 500px;
+    margin: 50px;
+    border: solid;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+.Purpose{
+    background-color:blueviolet;
+    padding: 30px;
+    width: 500px;
+    margin: 50px;
+    border: solid;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+p{
+    margin: 0;
+  background-color: rgb(242, 235, 247);
+    
+}
+b{
+    background-color: rgb(246, 110, 112);
+    margin-bottom: 20px;
+
+
+}
